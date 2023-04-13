@@ -35,15 +35,15 @@ public class Subject {
 			
 			
 			
-		    Mathmatic math = ()-> {
+		 //   Mathmatic math = ()-> {
 				 System.out.println("this is mathmatic subject");
-				     return 1000; 
+			//	     return 1000; 
 
 
 
 		    };
 		    
-		   math.addition();
+		 //  math.addition();
 		
 	}
 		
@@ -53,4 +53,4 @@ public class Subject {
 		
 	
 
-}
+
